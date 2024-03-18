@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-- 💻 Je suis en études d'Informatique
-- 😁 Je suis de nature dyanmique
+- 💻 Je suis étudiant en Informatique
+- 😁 Je suis de nature dynamique
 - 💬 Mais également très communicatif
 - 💡 Actuellement, je réalise mon portfolio
